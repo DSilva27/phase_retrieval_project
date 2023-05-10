@@ -1,7 +1,6 @@
 import numpy as np
 import json
 from register_to_reference import register_to_reference
-from compute_residual import compute_residual
 
 
 class PhaseRetSolver:
